@@ -4,7 +4,7 @@
 ====================
 # INTRODUCTION 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
-![Game Screenshot](/tictactoe.png)
+![tictactoe.png](/tictactoe.png)
 
 ## Installation
 To play the game, visit [Amir-Tic-Tac-Toe](https://amir-tictactoeapp.tiiny.site/).
